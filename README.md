@@ -7,8 +7,7 @@ Here are all my CodeForces submission with poor coding!
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
- ## Solution Table
-
+## Solution Table
 |  Problem| C++  | Python  | C | JS |
 |---|---|---|---|---|
 |[1017B. The Bits](https://codeforces.com/contest/1017/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1017B.%20The%20Bits.cpp)||||
@@ -25,6 +24,7 @@ Here are all my CodeForces submission with poor coding!
 |[1119A. Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1119A.%20Ilya%20and%20a%20Colorful%20Walk.cpp)||||
 |[112A. Petya and Strings](https://codeforces.com/contest/112/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/112A.%20Petya%20and%20Strings.cpp)||||
 |[1131C. Birthday](https://codeforces.com/contest/1131/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1131C.%20Birthday.cpp)||||
+|[1132A. Regular Bracket Sequence](https://codeforces.com/contest/1132/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1132A.%20Regular%20Bracket%20Sequence.cpp)||||
 |[1133A. Middle of the Contest](https://codeforces.com/contest/1133/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1133A.%20Middle%20of%20the%20Contest.cpp)||||
 |[1133C. Balanced Team](https://codeforces.com/contest/1133/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1133C.%20Balanced%20Team.cpp)||||
 |[1139B. Chocolates](https://codeforces.com/contest/1139/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1139B.%20Chocolates.cpp)||||
@@ -52,13 +52,18 @@ Here are all my CodeForces submission with poor coding!
 |[1231C. Increasing Matrix](https://codeforces.com/contest/1231/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1231C.%20Increasing%20Matrix.cpp)||||
 |[1237A. Balanced Rating Changes](https://codeforces.com/contest/1237/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1237A.%20Balanced%20Rating%20Changes.cpp)||||
 |[1263A. Sweet Problem](https://codeforces.com/contest/1263/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1263A.%20Sweet%20Problem.cpp)||||
+|[1270B. Interesting Subarray](https://codeforces.com/contest/1270/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1270B.%20Interesting%20Subarray.cpp)||||
 |[1272C. Yet Another Broken Keyboard](https://codeforces.com/contest/1272/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1272C.%20Yet%20Another%20Broken%20Keyboard.cpp)||||
+|[1277B. Make Them Odd](https://codeforces.com/contest/1277/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1277B.%20Make%20Them%20Odd.cpp)||||
 |[1278A. Shuffle Hashing](https://codeforces.com/contest/1278/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1278A.%20Shuffle%20Hashing.cpp)||||
+|[1288A. Deadline](https://codeforces.com/contest/1288/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1288A.%20Deadline.cpp)||||
 |[1288B. Yet Another Meme Problem](https://codeforces.com/contest/1288/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1288B.%20Yet%20Another%20Meme%20Problem.cpp)||||
 |[1296B. Food Buying](https://codeforces.com/contest/1296/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1296B.%20Food%20Buying.cpp)||||
 |[1300B. Assigning to Classes](https://codeforces.com/contest/1300/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1300B.%20Assigning%20to%20Classes.cpp)||||
+|[1304B. Longest Palindrome](https://codeforces.com/contest/1304/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1304B.%20Longest%20Palindrome.cpp)||||
 |[131A. cAPS lOCK](https://codeforces.com/contest/131/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/131A.%20cAPS%20lOCK.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/131A.%20cAPS%20lOCK.py)|||
 |[1324A. Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1324A.%20Yet%20Another%20Tetris%20Problem.cpp)||||
+|[1324B. Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1324B.%20Yet%20Another%20Palindrome%20Problem.cpp)||||
 |[1327A. Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1327A.%20Sum%20of%20Odd%20Integers.cpp)||||
 |[1328A. Divisibility Problem](https://codeforces.com/contest/1328/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1328A.%20Divisibility%20Problem.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1328A.%20Divisibility%20Problem.py)|||
 |[1328C. Ternary XOR](https://codeforces.com/contest/1328/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1328C.%20Ternary%20XOR.cpp)||||
@@ -74,8 +79,10 @@ Here are all my CodeForces submission with poor coding!
 |[1342B. Binary Period](https://codeforces.com/contest/1342/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1342B.%20Binary%20Period.cpp)||||
 |[1343A. Candies](https://codeforces.com/contest/1343/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1343A.%20Candies.cpp)||||
 |[1343B. Balanced Array](https://codeforces.com/contest/1343/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1343B.%20Balanced%20Array.cpp)||||
+|[1345B. Card Constructions](https://codeforces.com/contest/1345/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1345B.%20Card%20Constructions.cpp)||||
 |[1352A. Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1352A.%20Sum%20of%20Round%20Numbers.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1352A.%20Sum%20of%20Round%20Numbers.py)|||
 |[1352C. K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1352C.%20K-th%20Not%20Divisible%20by%20n.cpp)||||
+|[1355A. Sequence with Digits](https://codeforces.com/contest/1355/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1355A.%20Sequence%20with%20Digits.cpp)||||
 |[1360B. Honest Coach](https://codeforces.com/contest/1360/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1360B.%20Honest%20Coach.cpp)||||
 |[1360C. Similar Pairs](https://codeforces.com/contest/1360/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1360C.%20Similar%20Pairs.cpp)||||
 |[1362B. Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1362B.%20Johnny%20and%20His%20Hobbies.cpp)||||
@@ -92,6 +99,7 @@ Here are all my CodeForces submission with poor coding!
 |[1374B. Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1374B.%20Multiply%20by%202%2C%20divide%20by%206.cpp)||||
 |[1374C. Move Brackets](https://codeforces.com/contest/1374/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1374C.%20Move%20Brackets.cpp)||||
 |[1375A. Sign Flipping](https://codeforces.com/contest/1375/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1375A.%20Sign%20Flipping.cpp)||||
+|[1384A. Common Prefixes](https://codeforces.com/contest/1384/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1384A.%20Common%20Prefixes.cpp)||||
 |[1385B. Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1385B.%20Restore%20the%20Permutation%20by%20Merger.cpp)||||
 |[1385C. Make It Good](https://codeforces.com/contest/1385/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1385C.%20Make%20It%20Good.cpp)||||
 |[1389A. LCM Problem](https://codeforces.com/contest/1389/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1389A.%20LCM%20Problem.cpp)||||
@@ -147,6 +155,7 @@ Here are all my CodeForces submission with poor coding!
 |[1521A. Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1521A.%20Nastia%20and%20Nearly%20Good%20Numbers.cpp)||||
 |[1529B. Sifid and Strange Subsequences](https://codeforces.com/contest/1529/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1529B.%20Sifid%20and%20Strange%20Subsequences.cpp)||||
 |[1535B. Array Reodering](https://codeforces.com/contest/1535/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1535B.%20Array%20Reodering.cpp)||||
+|[1536B. Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1536B.%20Prinzessin%20der%20Verurteilung.cpp)||||
 |[1537C. Challenging Cliffs](https://codeforces.com/contest/1537/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1537C.%20Challenging%20Cliffs.cpp)||||
 |[1539C. Stable Groups](https://codeforces.com/contest/1539/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1539C.%20Stable%20Groups.cpp)||||
 |[1541B. Pleasant Pairs](https://codeforces.com/contest/1541/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1541B.%20Pleasant%20Pairs.cpp)||||
@@ -167,12 +176,14 @@ Here are all my CodeForces submission with poor coding!
 |[1561A. Simply Strange Sort](https://codeforces.com/contest/1561/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1561A.%20Simply%20Strange%20Sort.cpp)||||
 |[1562A. The Miracle and the Sleeper](https://codeforces.com/contest/1562/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1562A.%20The%20Miracle%20and%20the%20Sleeper.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1562A.%20The%20Miracle%20and%20the%20Sleeper.py)|||
 |[1566A. Median Maximization](https://codeforces.com/contest/1566/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1566A.%20Median%20Maximization.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1566A.%20Median%20Maximization.py)|||
+|[1566D1. Seating Arrangements (easy version) ](https://codeforces.com/contest/1566/problem/D1)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1566D1.%20Seating%20Arrangements%20%28easy%20version%29%20.cpp)||||
 |[1567A. Domino Disaster](https://codeforces.com/contest/1567/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1567A.%20Domino%20Disaster.cpp)||[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C/1567A.%20Domino%20Disaster.c)||
 |[1567B. MEXor Mixup](https://codeforces.com/contest/1567/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1567B.%20MEXor%20Mixup.cpp)||||
 |[1569A. Balanced Substring](https://codeforces.com/contest/1569/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1569A.%20Balanced%20Substring.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1569A.%20Balanced%20Substring.py)|||
 |[1573A. Countdown](https://codeforces.com/contest/1573/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1573A.%20Countdown.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1573A.%20Countdown.py)|||
 |[1574A. Regular Bracket Sequences](https://codeforces.com/contest/1574/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1574A.%20Regular%20Bracket%20Sequences.cpp)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/Python/1574A.%20Regular%20Bracket%20Sequences.py)|||
 |[1574B. Combinatorics Homework](https://codeforces.com/contest/1574/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1574B.%20Combinatorics%20Homework.cpp)||||
+|[1575A. Another Sorting Problem](https://codeforces.com/contest/1575/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1575A.%20Another%20Sorting%20Problem.cpp)||||
 |[1579A. Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1579A.%20Casimir%27s%20String%20Solitaire.cpp)||||
 |[1579B. Shifting Sort](https://codeforces.com/contest/1579/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1579B.%20Shifting%20Sort.cpp)||||
 |[1581B. Diameter of Graph](https://codeforces.com/contest/1581/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1581B.%20Diameter%20of%20Graph.cpp)||||
@@ -214,12 +225,14 @@ Here are all my CodeForces submission with poor coding!
 |[1618A. Polycarp and Sums of Subsequences](https://codeforces.com/contest/1618/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1618A.%20Polycarp%20and%20Sums%20of%20Subsequences.cpp)||||
 |[1618C. Paint the Array](https://codeforces.com/contest/1618/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1618C.%20Paint%20the%20Array.cpp)||||
 |[1619A. Square String](https://codeforces.com/contest/1619/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1619A.%20Square%20String.cpp)||||
+|[1619C. Wrong Addition](https://codeforces.com/contest/1619/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1619C.%20Wrong%20Addition.cpp)||||
 |[1621A. Stable Arrangement of Rooks](https://codeforces.com/contest/1621/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1621A.%20Stable%20Arrangement%20of%20Rooks.cpp)||||
 |[1622B. Berland Music](https://codeforces.com/contest/1622/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1622B.%20Berland%20Music.cpp)||||
 |[1624C. Division by Two and Permutation](https://codeforces.com/contest/1624/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1624C.%20Division%20by%20Two%20and%20Permutation.cpp)||||
 |[1625B. Elementary Particles](https://codeforces.com/contest/1625/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1625B.%20Elementary%20Particles.cpp)||||
 |[1626A. Equidistant Letters](https://codeforces.com/contest/1626/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1626A.%20Equidistant%20Letters.cpp)||||
 |[1631A. Min Max Swap](https://codeforces.com/contest/1631/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1631A.%20Min%20Max%20Swap.cpp)||||
+|[1631B. Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1631B.%20Fun%20with%20Even%20Subarrays.cpp)||||
 |[1632A. ABC](https://codeforces.com/contest/1632/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1632A.%20ABC.cpp)||||
 |[1632B. Roof Construction](https://codeforces.com/contest/1632/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1632B.%20Roof%20Construction.cpp)||||
 |[1633C. Kill the Monster](https://codeforces.com/contest/1633/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1633C.%20Kill%20the%20Monster.cpp)||||
@@ -228,6 +241,7 @@ Here are all my CodeForces submission with poor coding!
 |[1635B. Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1635B.%20Avoid%20Local%20Maximums.cpp)||||
 |[1635C. Differential Sorting](https://codeforces.com/contest/1635/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1635C.%20Differential%20Sorting.cpp)||||
 |[1637A. Sorting Parts](https://codeforces.com/contest/1637/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1637A.%20Sorting%20Parts.cpp)||||
+|[1637C. Andrew and Stones](https://codeforces.com/contest/1637/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1637C.%20Andrew%20and%20Stones.cpp)||||
 |[1641A. Great Sequence](https://codeforces.com/contest/1641/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1641A.%20Great%20Sequence.cpp)||||
 |[1642B. Power Walking](https://codeforces.com/contest/1642/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1642B.%20Power%20Walking.cpp)||||
 |[1644A. Doors and Keys](https://codeforces.com/contest/1644/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1644A.%20Doors%20and%20Keys.cpp)||||
@@ -321,6 +335,8 @@ Here are all my CodeForces submission with poor coding!
 |[1694B. Paranoid String](https://codeforces.com/contest/1694/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1694B.%20Paranoid%20String.cpp)||||
 |[1695A. Subrectangle Guess](https://codeforces.com/contest/1695/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1695A.%20Subrectangle%20Guess.cpp)||||
 |[1695B. Circle Game](https://codeforces.com/contest/1695/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1695B.%20Circle%20Game.cpp)||||
+|[1696A. NIT orz!](https://codeforces.com/contest/1696/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1696A.%20NIT%20orz%21.cpp)||||
+|[1696B. NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1696B.%20NIT%20Destroys%20the%20Universe.cpp)||||
 |[1697A. Parkway Walk](https://codeforces.com/contest/1697/problem/A)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1697A.%20Parkway%20Walk.cpp)||||
 |[1697B. Promo](https://codeforces.com/contest/1697/problem/B)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1697B.%20Promo.cpp)||||
 |[1697C. awoo's Favorite Problem](https://codeforces.com/contest/1697/problem/C)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C++/1697C.%20awoo%27s%20Favorite%20Problem.cpp)||||
@@ -445,6 +461,7 @@ Here are all my CodeForces submission with poor coding!
 |[231A. Team](https://codeforces.com/contest/231/problem/A)|||[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C/231A.%20Team.c)||
 |[4A. Watermelon](https://codeforces.com/contest/4/problem/A)|||[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C/4A.%20Watermelon.c)|[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/JS/4A.%20Watermelon.js)|
 |[71A. Way Too Long Words](https://codeforces.com/contest/71/problem/A)|||[Link](https://github.com/TerminalWarlord/CodeForces-Submissions/blob/master/C/71A.%20Way%20Too%20Long%20Words.c)||
+ 
 
  
 
